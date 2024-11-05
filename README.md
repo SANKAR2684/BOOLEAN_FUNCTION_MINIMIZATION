@@ -46,15 +46,17 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
-![Screenshot 2024-11-05 105136](https://github.com/user-attachments/assets/173a3726-d6bb-4e9e-8221-9b3ca5102ee0)
 
+
+![Screenshot 2024-11-05 105136](https://github.com/user-attachments/assets/aab23f23-e995-4f52-a04a-48112cd38e1d)
 
 **Output:**
 
 **RTL**
 
 **Timing Diagram**
-![Screenshot 2024-11-05 103000](https://github.com/user-attachments/assets/7fefdd17-9f27-4698-bd76-e7c294217578)
+
+![Screenshot 2024-11-05 105036](https://github.com/user-attachments/assets/5ff9d398-4b6d-4398-a833-b26d567ccca1)
 
 **Result:**
 
