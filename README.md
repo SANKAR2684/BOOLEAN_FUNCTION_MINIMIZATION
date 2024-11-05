@@ -46,7 +46,8 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
-![Screenshot 2024-11-05 102543](https://github.com/user-attachments/assets/12e386d7-fb60-4223-a994-d4eb0791cb8d)
+![Screenshot 2024-11-05 105136](https://github.com/user-attachments/assets/173a3726-d6bb-4e9e-8221-9b3ca5102ee0)
+
 
 **Output:**
 
